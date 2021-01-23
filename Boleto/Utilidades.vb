@@ -230,7 +230,7 @@ Public Class Utilidades
                 Dim resultado As Date
                 resultado = BASE64_Decode(Text)
                 If Date.Now >= resultado Then
-                    MessageBox.Show("O Programa Irá Fechar Porque Ultrapassou O Limite de Dias", "A data Limite Expeirou", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                    MessageBox.Show("O Programa Irá Fechar Porque Ultrapassou O Limite de Dias", "A data Limite Expirou", MessageBoxButtons.OK, MessageBoxIcon.Error)
                     Application.Exit()
                 End If
             Next
