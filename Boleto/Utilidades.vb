@@ -224,6 +224,7 @@ Public Class Utilidades
     '  * Void                                                                    <p>
     Public Sub Altenticacao()
         Dim DataFirst = Date.Now
+        'o arquivo está nesse caminho = C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug
         If File.Exists(Application.StartupPath & "\Amarildo") Then
             Dim A As String() = File.ReadAllLines(Application.StartupPath & "\Amarildo")
             For Each Text As String In A
@@ -238,13 +239,19 @@ Public Class Utilidades
             Dim Validade As String
             Dim data As Date
             data = Now.Date
+            'caso o arquivo não exista na pasta caminho = C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug
+            'vai ser criado um arquivo nas pasta acima com a data do sistema + 3 dias ou seja D+3
+            'caso exibir a mensagem de expiro basta deletar o arquivo Amarildo na pasta acima.
+            'e o programa ira recria-lo com a data d+3 conforme mencionado acima, e voltara a funcionar normalmente.
             Validade = data.AddDays(3)
             Dim dataencriptada As String = BASE64_Encode(Validade.ToString)
             Using sw As StreamWriter = File.CreateText(Application.StartupPath & "\Amarildo")
                 sw.Write(dataencriptada)
             End Using
         End If
+        'o comando abaixo cria um arquivo com o Nome Amarildo e Oculta na pasta caminho = C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug
         SetAttr(Application.StartupPath & "\Amarildo", vbHidden) 'Oculta Pasta E/Ou Arquivo
+        'o comando abaixo cria um arquivo com o Nome Amarildo sem Oculta na pasta caminho = C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug
         'SetAttr(Application.StartupPath & "\Amarildo", vbNormal) 'DesOculta Pasta E/Ou Arquivo
     End Sub
     '  Metodo para, Criptografia                                                 <p>
