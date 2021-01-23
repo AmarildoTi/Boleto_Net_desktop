@@ -1,0 +1,36 @@
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\bin\Debug\Boleto.exe
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\bin\Debug\Boleto.pdb
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\bin\Debug\Boleto.xml
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\bin\Debug\itextsharp.dll
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\bin\Debug\itextsharp.xml
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\Boleto.Boleto.resources
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\Boleto.Resources.resources
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\Boleto.vbproj.GenerateResource.Cache
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\Boleto.exe
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\Boleto.xml
+C:\Users\amarildo\Documents\Visual Studio 2008\Projects\Boleto\Boleto\obj\Debug\Boleto.pdb
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\Boleto.exe
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\Boleto.xml
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\Boleto.pdb
+C:\Amarildo\Boleto_VB.Net\Boleto\bin\Debug\Boleto.exe
+C:\Amarildo\Boleto_VB.Net\Boleto\bin\Debug\Boleto.pdb
+C:\Amarildo\Boleto_VB.Net\Boleto\bin\Debug\Boleto.xml
+C:\Amarildo\Boleto_VB.Net\Boleto\bin\Debug\itextsharp.xml
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\ResolveAssemblyReference.cache
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\Boleto.Boleto.resources
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\Boleto.Resources.resources
+C:\Amarildo\Boleto_VB.Net\Boleto\obj\Debug\Boleto.vbproj.GenerateResource.Cache
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug\Boleto.exe
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug\Boleto.pdb
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug\Boleto.xml
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\bin\Debug\itextsharp.xml
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.vbprojAssemblyReference.cache
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.Boleto.resources
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.Resources.resources
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.vbproj.GenerateResource.cache
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.vbproj.CoreCompileInputs.cache
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.vbproj.CopyComplete
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.exe
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.xml
+C:\Amarildo\Programas\Visual Studio\Boleto_VB.Net\Boleto\obj\Debug\Boleto.pdb
